@@ -1,2 +1,2 @@
-# project-02
+# myproject
 The project of the website of the interior design company
